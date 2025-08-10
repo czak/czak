@@ -1,4 +1,5 @@
-## Łukasz Adamczak <img height="16" alt="image" src="https://github.com/user-attachments/assets/3effc912-75c8-4513-883e-0a274d71b15f" />
+## Łukasz Adamczak <img height="16" alt="pronunciation" src="https://github.com/user-attachments/assets/bbe9f1c1-8fca-4df3-ab70-708502dfb04f" />
+
 
 Hi, I'm Łukasz and I build things out of pixels and caffeine.
 
